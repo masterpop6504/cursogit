@@ -1,0 +1,11 @@
+commit 6c79a90920ece91fe452b228ab19995a43720d97
+Author: masterpop <alan.mastertaekwondo@gmail.com>
+Date:   Mon Jul 1 13:46:54 2019 -0500
+
+    agregamos otro campo
+
+commit cf8d4e979e3c0d1cd3ba3582ec97088795a476be
+Author: masterpop <alan.mastertaekwondo@gmail.com>
+Date:   Mon Jul 1 13:42:53 2019 -0500
+
+    Iniciado
